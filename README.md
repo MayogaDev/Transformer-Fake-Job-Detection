@@ -9,25 +9,13 @@ This project uses BERT, PyTorch, and the Hugging Face Transformers library to de
 - Creator: The University of the Aegean | Laboratory of Information & Communication Systems Security
 - License: [CC0: Public Domain](https://creativecommons.org/publicdomain/zero/1.0/)
 
-## Installation
 
-1. Clone the repository:
-```bash
-git clone https://github.com/your_username/fraudulent-job-posting-detection.git
-```
 
-2. Create a virtual environment and activate it:
+## Results
+![image](https://github.com/user-attachments/assets/813eccf1-60e2-4f2f-9547-b137ac078350)
 
-python -m venv venv
-source venv/bin/activate
+![image](https://github.com/user-attachments/assets/46249c1f-ab09-40f4-833f-cf3ae5147997)
 
-3. Install the required dependencies:
-pip install -r requirements.txt
-
-## Usage
-
-1. Train and test the model using default settings:
-python main.py
 
 ## Model Performance
 
@@ -37,12 +25,3 @@ Test accuracy: 0.9888\
 Precision: 0.9886\
 Recall: 0.9888\
 F1-score: 0.9887
-
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
